@@ -1,6 +1,6 @@
 ﻿using HarmonyLib;
 
-namespace ExampleMod;
+namespace SpeedMOB;
 
 [HarmonyPatch]
 public class Patches {
