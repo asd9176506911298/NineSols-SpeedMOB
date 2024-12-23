@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <AssemblyName>SpeedMOB</AssemblyName>
         <Description>Link MOB Room</Description>
@@ -33,6 +33,9 @@
         </Reference>
         <Reference Include="InControl">
             <HintPath>$(NineSolsPath)/NineSols_Data/Managed/InControl.dll</HintPath>
+        </Reference>
+        <Reference Include="InControl">
+          <HintPath>$(NineSolsPath)/NineSols_Data/Managed/InControl.dll</HintPath>
         </Reference>
     </ItemGroup>
 
