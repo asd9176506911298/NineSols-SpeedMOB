@@ -1,4 +1,5 @@
-# Nine Sols Example Mod
+# Nine Sols ModSpeedMOB
 
-Write a description of your mod here, it will be displayed on thunderstore.
-Remember to update the icon.png to something representing your mod.
+# Feature
+- Link Memory Of Boss Room
+- YingZhao -> Goumang -> Yanloa -> Jiequan -> Lady Ethereal -> Fuxi -> Jee -> True Eigong
