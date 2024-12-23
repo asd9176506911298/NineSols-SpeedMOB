@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "SpeedMOB"
 name = "SpeedMOB"
-versionNumber = "0.1.0"
+versionNumber = "0.1.1"
 description = "Link MOB Room"
 websiteUrl = "https://github.com/asd9176506911298/NineSols-SpeedMOB"
 containsNsfwContent = false
